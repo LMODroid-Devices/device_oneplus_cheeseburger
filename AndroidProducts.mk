@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_cheeseburger.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_cheeseburger-user \
-    lmodroid_cheeseburger-userdebug \
-    lmodroid_cheeseburger-eng
